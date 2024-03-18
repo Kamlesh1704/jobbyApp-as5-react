@@ -1,0 +1,59 @@
+.similar-card {
+  background-color: #272727;
+  height: 650px;
+  width: 450px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  color: white;
+  padding: 20px;
+}
+.imgandtitle {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+.star {
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+}
+.company-logoo {
+  height: 60px;
+  width: 55px;
+  padding-right: 20px;
+}
+.starr {
+  font-size: 30px;
+  padding-left: 10px;
+}
+.rating {
+  font-size: 25px;
+}
+.discription {
+  color: rgb(161, 157, 157);
+  font-size: 20px;
+}
+.dheading {
+  font-size: 30px;
+}
+.loc-div {
+  display: flex;
+  font-size: 18px;
+  padding: 10px;
+  align-items: center;
+}
+.type-div {
+  display: flex;
+  font-size: 18px;
+  padding: 10px;
+    align-items: center;
+}
+.locc {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}

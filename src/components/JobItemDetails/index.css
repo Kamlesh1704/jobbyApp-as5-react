@@ -1,0 +1,165 @@
+.container {
+  background-color: black;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.cardd {
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 30px;
+  width: 1300px;
+  margin-left: 80px;
+}
+.img-div {
+  display: flex;
+  align-items: center;
+}
+.company-logo {
+  height: 60px;
+  width: 60px;
+  padding-right: 18px;
+}
+.titleandstar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  color: white;
+  font-weight: bold;
+}
+.ratingandstar {
+  color: white;
+  padding: 5px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+}
+.rating {
+  font-weight: bold;
+}
+.div-2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.descriptionandlink {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+.link {
+  color:  #4f46e5;
+  background-color: transparent;
+  font-size: 25px;
+  font-weight: bold;
+  border: none;
+  margin-right: 40px;
+}
+.discription {
+  color: white;
+  font-size: 20px;
+}
+.skills {
+  color: white;
+}
+
+.skilllist {
+  flex-wrap: wrap;
+  display: flex;
+  color: white;
+}
+.headingsimilar {
+  color: white;
+  font-size: 30px;
+  padding-left: 80px;
+  padding-top: 30px;
+}
+.similarlist {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  flex-wrap: wrap;
+  margin: 30px;
+}
+.titleandstar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title {
+  font-weight: bold;
+  font-size: 25px;
+}
+.rating {
+  font-weight: bold;
+  padding-left: 5px;
+}
+.headingm {
+  font-size: 20px;
+  font-weight: bold;
+}
+.packagem {
+  font-weight: bold;
+}
+.div-2m {
+  display: flex;
+  justify-content: space-between;
+}
+.loc-divm {
+  display: flex;
+  align-items: center;
+}
+.type-divm {
+  display: flex;
+  align-items: center;
+}
+.locationnm {
+  padding-left: 5px;
+}
+.typeem {
+  padding-left: 5px;
+}
+.descriptionm {
+  font-size: 15px;
+}
+.failureimg {
+  height: 300px;
+  width: 500px;
+}
+.oo {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+.wee {
+  color: rgb(142, 140, 140);
+  font-size: 20px;
+}
+.retry-btn {
+  background-color: #4f46e5;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  height: 50px;
+  width: 110px;
+  font-weight: bold;
+}
+.d-i-v {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  height: 100vh;
+}

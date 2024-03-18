@@ -1,0 +1,14 @@
+.listskills {
+  display: flex;
+  align-items: center;
+  padding-right: 170px;
+  margin: 25px;
+}
+.name {
+  font-size: 20px;
+  padding-left: 15px;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}

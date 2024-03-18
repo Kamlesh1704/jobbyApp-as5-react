@@ -1,0 +1,102 @@
+.div-all-wala {
+  display: flex;
+  justify-content: space-between;
+}
+.ul-list {
+  list-style-type: none;
+}
+.inputandseach {
+  display: flex;
+  padding-left: 45px;
+  align-items: center;
+}
+.search-input {
+  background-color: transparent;
+  border: 1px solid rgb(177, 174, 174);
+  border-radius: 2px;
+  height: 30px;
+  width: 300px;
+  border-right: none;
+  color: white;
+  padding-left: 15px;
+}
+.search-btn {
+  background-color: #272727;
+  border: 1px solid rgb(177, 174, 174);
+  border-radius: 2px;
+  height: 33px;
+  width: 50px;
+  border-left: none;
+  font-size: 26px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.class {
+  display: flex;
+  flex-direction: row;
+}
+.retry-button {
+  background-color: #4f46e5;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  height: 45px;
+  width: 110px;
+  margin-right: 40px;
+  font-weight: bold;
+}
+.oops {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+.we {
+  color: rgb(142, 140, 140);
+  font-size: 20px;
+}
+.failureimg {
+  height: 400px;
+  width: 500px;
+  margin: 30px;
+}
+.div-failure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.loader-container {
+  margin-top: 300px;
+}
+.no-job-div {
+  display: flex;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+}
+.no-job-img {
+  margin-top: 10px;
+  height: 400px;
+  width: 500px;
+}
+.nojob {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+.no-job-para {
+  color: rgb(149, 144, 144);
+  font-size: 15px;
+}
+.filtergrp {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.profile-filter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

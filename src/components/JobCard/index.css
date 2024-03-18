@@ -1,0 +1,64 @@
+.company-logom {
+  height: 50px;
+  width: 50px;
+  padding-right: 10px;
+}
+.job-itemm {
+  background-color: #272727;
+  border-radius: 20px;
+  padding: 15px;
+  color: white;
+  width: 900px;
+  height: 400px;
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.img-divm {
+  display: flex;
+  align-items: center;
+}
+.titleandstarm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.titlem {
+  font-weight: bold;
+  font-size: 25px;
+}
+.ratingm {
+  font-weight: bold;
+  padding-left: 5px;
+}
+.headingm {
+  font-size: 20px;
+  font-weight: bold;
+}
+.packagem {
+  font-weight: bold;
+}
+.div-2m {
+  display: flex;
+  justify-content: space-between;
+}
+.loc-divm {
+  display: flex;
+  align-items: center;
+}
+.type-divm {
+  display: flex;
+  align-items: center;
+}
+.rating-starm {
+  display: flex;
+  align-items: center;
+}
+.locationnm {
+  padding-left: 5px;
+}
+.typeem {
+  padding-left: 5px;
+}
+.descriptionm {
+  font-size: 15px;
+}

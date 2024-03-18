@@ -1,0 +1,21 @@
+.notfounddiv {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: black;
+  height: 100vh;
+}
+.notfoundimg {
+  height: 300px;
+  width: 350px;
+}
+.p {
+  color: rgb(156, 152, 152);
+  font-size: 20px;
+}
+.h1 {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}

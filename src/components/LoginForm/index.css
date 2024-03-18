@@ -1,0 +1,55 @@
+.main-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 100vh;
+}
+.form-div {
+  height: 450px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+   justify-content: space-evenly;
+  align-items: center;
+  background-color: #272727;
+  border-radius: 10px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+.input-label {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+.username-input-field {
+  background-color: transparent;
+  border: 1px wheat solid;
+  border-radius: 3px;
+  height: 35px;
+  width: 300px;
+  padding-left: 8px;
+}
+.password-input-field {
+  background-color: transparent;
+  border: 1px wheat solid;
+  border-radius: 3px;
+  height: 35px;
+  width: 300px;
+  padding-left: 8px;
+}
+.login-button {
+  height: 35px;
+  width: 300px;
+  text-align: center;
+  color: white;
+  background-color: #4f46e5;
+  border: none;
+}
+.error-msg {
+  color: Red;
+  text-align: left;
+}

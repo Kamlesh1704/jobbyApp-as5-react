@@ -1,0 +1,17 @@
+.lifeat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  color: white;
+}
+.image-life{
+  height: 340px;
+  width: 340px;
+  border-radius: 10px;
+}
+.description{
+  font-size: 30px;
+  color: rgb(209, 205, 205);
+}
